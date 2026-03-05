@@ -36,7 +36,9 @@ All data will be fully open-sourced upon the completion of the review process.
 ## Cogito-Pipe
 
 <p align="center">
-  <img src="./cogito_pipe.svg" width="800px" alt="Cogito-Pipe">
+
+![Cogito-Pipe](./cogito_pipe.svg)
+
 </p>
 
 ### Data Collection
