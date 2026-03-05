@@ -4,15 +4,15 @@ This is the official repository 👑 for **Audio-Cogito**, a fully open-source s
 
 ---
 
-## 📊 Dataset
+## Dataset
 
-### 📂 Dataset Download
+### Dataset Download
 
 > [!IMPORTANT]
 > **To comply with the double-blind review policy, the complete dataset and download links are currently withheld to maintain anonymity.**
 > All data will be fully open-sourced upon the completion of the review process.
 
-### 📈 Statistics of Dataset
+### Statistics of Dataset
 
 | Domain | Dataset Source | Main Skills Learning | Quantity | Ratio (%) |
 | --- | --- | --- | --- | --- |
