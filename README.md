@@ -37,11 +37,7 @@ All data will be fully open-sourced upon the completion of the review process.
 
 The Cogito-Pipe consists of four stages: (1) Data Collection from multi-domain audio sources spanning sound, speech, and music; (2) QA Construction to synthesize diverse and challenging QA pairs; (3) CoT Construction to produce detailed step-by-step reasoning traces; and (4) Quality Verification to enforce consistency between QA pairs and CoT rationales while filtering out hallucinated or low-quality samples.
 
-<p align="center">
-
 ![Cogito-Pipe](./cogito_pipe.png)
-
-</p>
 
 ### Data Collection
 ### QA Construction
