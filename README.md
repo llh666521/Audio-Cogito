@@ -37,7 +37,7 @@ All data will be fully open-sourced upon the completion of the review process.
 
 <p align="center">
 
-![Cogito-Pipe](./cogito_pipe.svg)
+![Cogito-Pipe](./cogito_pipe.png)
 
 </p>
 
