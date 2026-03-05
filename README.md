@@ -4,6 +4,12 @@ This is the official repository 👑 for **Audio-Cogito**, a fully open-source s
 
 ---
 
+## Features
+- We propose Audio-Cogito, built on Qwen3-Omni-Thinking, which utilizes self-distillation to substantially enhance the deep reasoning capabilities of LALMs.
+- We introduce Cogito-Pipe, a fully open-source four-stage pipeline for constructing high-quality and diverse audio reasoning data.
+- We release a large-scale audio reasoning dataset with 545k high-quality samples spanning multiple audio domains.
+- Audio-Cogito achieves top-tier performance in the Interspeech 2026 Audio Reasoning Challenge and sets new SOTA results among open-source models on the MMAR benchmark, even surpassing several proprietary systems.
+
 ## Dataset
 
 ### Dataset Download
