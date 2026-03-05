@@ -14,7 +14,6 @@ This is the official repository 👑 for **Audio-Cogito**, a fully open-source s
 
 ### Dataset Download
 
-> [!IMPORTANT]
 > **To comply with the double-blind review policy, the complete dataset and download links are currently withheld to maintain anonymity.**
 > All data will be fully open-sourced upon the completion of the review process.
 
@@ -32,3 +31,10 @@ This is the official repository 👑 for **Audio-Cogito**, a fully open-source s
 | 🎵 **Music** | MusicBench | General Music | 88k | 16.04 |
 |  | FMA | Music Genre | 76k | 13.81 |
 |  | Medley-solos-DB | Instrument Analysis | 35k | 6.38 |
+
+## Cogito-Pipe
+
+### Data Collection
+### QA Construction
+### CoT Generation
+### Quality Verification
