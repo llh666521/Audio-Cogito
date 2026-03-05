@@ -14,8 +14,9 @@ This is the official repository 👑 for **Audio-Cogito**, a fully open-source s
 
 ### Dataset Download
 
-> **To comply with the double-blind review policy, the complete dataset and download links are currently withheld to maintain anonymity.**
-> All data will be fully open-sourced upon the completion of the review process.
+**To comply with the double-blind review policy, the complete dataset and download links are currently withheld to maintain anonymity.**
+
+All data will be fully open-sourced upon the completion of the review process.
 
 ### Statistics of Dataset
 
@@ -33,6 +34,10 @@ This is the official repository 👑 for **Audio-Cogito**, a fully open-source s
 |  | Medley-solos-DB | Instrument Analysis | 35k | 6.38 |
 
 ## Cogito-Pipe
+
+<p align="center">
+  <img src="./cogito_pipe.svg" width="600px" alt="Cogito-Pipe">
+</p>
 
 ### Data Collection
 ### QA Construction
