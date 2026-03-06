@@ -68,10 +68,10 @@ All data will be fully open-sourced upon the completion of the review process.
 
 The **Cogito-Pipe** is structured into the following four systematic stages to ensure data diversity and reasoning quality:
 
-* **Stage 1: Data Collection** Gathering data from multi-domain audio sources spanning sound, speech, and music.
-* **Stage 2: QA Construction** Synthesizing diverse and challenging QA pairs based on the collected audio.
-* **Stage 3: CoT Construction** Producing detailed step-by-step reasoning traces (Chain-of-Thought) for each task.
-* **Stage 4: Quality Verification** Enforcing consistency between QA pairs and CoT rationales while filtering out hallucinated or low-quality samples.
+* **Data Collection:** Gathering data from multi-domain audio sources spanning sound, speech, and music.
+* **QA Construction:** Synthesizing diverse and challenging QA pairs based on the collected audio.
+* **CoT Construction:** Producing detailed step-by-step reasoning traces (Chain-of-Thought) for each task.
+* **Quality Verification:** Enforcing consistency between QA pairs and CoT rationales while filtering out hallucinated or low-quality samples.
 
 <p align="center">
   <img src="cogito_pipe.svg" width="800" alt="Cogito-Pipe">
