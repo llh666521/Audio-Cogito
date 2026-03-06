@@ -35,7 +35,7 @@ All data will be fully open-sourced upon the completion of the review process.
 
 ## Main Results
 
-| Models | Size | Sound | Music | Speech | S-M | S-S | M-S | S-M-S | Avg (%) | Rubrics | CRS |
+| Models | Size | Sound | Music | Speech | S-M | S-S | M-S | S-M-S | Avg (%) | Rubrics (%) | CRS |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | *Random Guess* | - | 29.39 | 25.88 | 31.48 | 25.00 | 29.30 | 31.10 | 28.13 | 29.32 | - | - |
 | **LALMs** | | | | | | | | | | | |
