@@ -1,6 +1,6 @@
 # Audio-Cogito: Towards Deep Audio Reasoning in Large Audio Language Models
 
-This is the official repository 👑 for **Audio-Cogito**, a fully open-source solution that elicits deep audio reasoning capabilities in LALMs without reliance on proprietary APIs.
+This is the official repository 👑 for **Audio-Cogito**, an open-source solution that elicits deep audio reasoning capabilities in LALMs without reliance on proprietary APIs.
 
 ---
 
@@ -74,3 +74,18 @@ The **Cogito-Pipe** is structured into the following four systematic stages to e
 <p align="center">
   <img src="cogito_pipe.svg" width="800" alt="Cogito-Pipe">
 </p>
+
+## Citation
+
+If you find **Audio-Cogito** useful for your research, please cite our paper:
+
+```bibtex
+@misc{li2026audiocogitodeepaudioreasoning,
+      title={Audio-Cogito: Towards Deep Audio Reasoning in Large Audio Language Models}, 
+      author={Longhao Li and Hongjie Chen and Zehan Li and Qihan Hu and Jian Kang and Jie Li and Lei Xie and Yongxiang Li},
+      year={2026},
+      eprint={2604.12527},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS},
+      url={https://arxiv.org/abs/2604.12527}, 
+}
