@@ -14,8 +14,7 @@ This is the official repository 👑 for **Audio-Cogito**, a fully open-source s
 
 ### Dataset Download
 
-- 🔒 Policy Compliance: To comply with the double-blind review policy, the complete dataset and download links are currently withheld to maintain anonymity.
-- 🚀 Data Release: All data will be fully open-sourced and publicly available upon the completion of the review process.
+- 📦 **Data Access:** The data is available on Hugging Face: [audio-cogito-data.jsonl](https://huggingface.co/datasets/lilonghao/Audio-Cogito/blob/main/audio-cogito-data.jsonl), including label annotations, CoT annotations, and final answers.
 
 ### Dataset Statistics
 
