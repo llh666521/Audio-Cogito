@@ -1,5 +1,14 @@
 # Audio-Cogito: Towards Deep Audio Reasoning in Large Audio Language Models
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2604.12527">
+    <img src="https://img.shields.io/badge/arXiv-2604.12527-b31b1b.svg" alt="arXiv">
+  </a>
+  <a href="https://huggingface.co/datasets/lilonghao/Audio-Cogito">
+    <img src="https://img.shields.io/badge/Hugging%20Face-Dataset-yellow.svg" alt="Hugging Face Dataset">
+  </a>
+</p>
+
 This is the official repository 👑 for **Audio-Cogito**, an open-source solution that elicits deep audio reasoning capabilities in LALMs without reliance on proprietary APIs.
 
 ---
